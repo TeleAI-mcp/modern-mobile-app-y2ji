@@ -1,2 +1,3 @@
-# modern-mobile-app-y2ji
-A mobile application for modern development workflows
+# Modern Mobile App Y2Ji
+
+A mobile application for modern development workflows.
